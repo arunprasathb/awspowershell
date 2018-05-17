@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Configuration>
-	<computers> 
-		<Name>WU2P204070001</Name> 
-		<ApppoolName>ADB-TESTA</ApppoolName>
-		<NTServiceID></NTServiceID>
-	</computers>
+
 	<computers> 
 		<Name>WU2P204090003</Name> 
 		<ApppoolName>p2ma-testa</ApppoolName>
