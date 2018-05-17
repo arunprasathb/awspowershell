@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+	<computers> 
+		<Name>WU2P204070001</Name> 
+		<ApppoolName>ADB-TESTA</ApppoolName>
+		<NTServiceID></NTServiceID>
+	</computers>
+	<computers> 
+		<Name>WU2P204090003</Name> 
+		<ApppoolName>p2ma-testa</ApppoolName>
+		<NTServiceID>AmazonSSMAgent</NTServiceID>
+	</computers>
+	<computers> 
+		<Name>WU2P204090004</Name> 
+		<ApppoolName>p2ma-testa</ApppoolName>
+		<NTServiceID></NTServiceID>
+	</computers>
+	<computers> 
+		<Name>WU2P203630007</Name> 
+		<ApppoolName>CCError</ApppoolName>.
+		<NTServiceID></NTServiceID>
+	</computers>
+	<computers> 
+		<Name>WU2P203620002</Name> 
+		<ApppoolName>CostProvision</ApppoolName>
+		<NTServiceID></NTServiceID>
+	</computers>
+	<computers> 
+		<Name>WU2P204080004</Name> 
+		<ApppoolName>GCAS-TESTA</ApppoolName>.
+		<NTServiceID></NTServiceID>
+	</computers>
+	<computers> 
+		<Name>WU2P204080005</Name> 
+		<ApppoolName>GCAS-TESTA</ApppoolName>
+		<NTServiceID></NTServiceID>
+	</computers>
+	<computers> 
+		<Name>WU2P204060001</Name> 
+		<ApppoolName>cmt-testa</ApppoolName>
+		<NTServiceID></NTServiceID>
+	</computers>
+	<computers> 
+		<Name>WU2P204060002</Name> 
+		<ApppoolName>cmt-testa</ApppoolName>
+		<NTServiceID></NTServiceID>
+	</computers>
+	<computers> 
+		<Name>WU2P204050001</Name> 
+		<ApppoolName>GPCW-TESTA</ApppoolName>
+		<NTServiceID></NTServiceID>
+	</computers>
+	<computers> 
+		<Name>WU2P204050002</Name> 
+		<ApppoolName>GPCW-TESTA</ApppoolName>
+		<NTServiceID></NTServiceID>
+	</computers>
+	<computers> 
+		<Name>WU2P203690001</Name> 
+		<ApppoolName>OCR</ApppoolName>
+		<NTServiceID></NTServiceID>
+	</computers>
+	<computers> 
+		<Name>WU2P203690002</Name> 
+		<ApppoolName>OCR</ApppoolName>
+		<NTServiceID></NTServiceID>
+	</computers>
+	
+	
+	<EmailConfiguration>
+		<SMTPServer>amsmtp.bp.com</SMTPServer>
+		<SMTPPort> </SMTPPort>
+		<EmailFrom>do-not-reply@bp.com</EmailFrom>
+		<EmailTo>Sairam.Sadanala@bp.com</EmailTo>
+	</EmailConfiguration> 
+</Configuration>
